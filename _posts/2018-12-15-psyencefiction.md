@@ -32,7 +32,8 @@ de la música, pero gracias a dios pude separar al artista del arte, cosa que no
 Efectivamente, el genio de Shadow y los beats de Lavelle crearon una experiencia auditiva aun no igualada a mi gusto. El album es tan experimental que te
 hace cuestionarte si los compositores no eran efectivamente los alienijenas de la portada.
 
-![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hFjCphQtaZM/0.jpg)](http://www.youtube.com/watch?v=hFjCphQtaZM)
+![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1pwCgBhvck8/0.jpg)](http://www.youtube.com/watch?v=1pwCgBhvck8)
+
 _Lonely Soul, cantada por Richard Ashcroft, era precisamente el audio de fondo del trailer de lanzamiento del primer Assassins Creed.
 Pero el disco contenía mucho más que esto._
 
@@ -43,6 +44,7 @@ extrañas que te cuentan una historia powereada por drogas que habían consumido
 Por ejemplo: En que chucha estai cuando llamai a Thom Yorke de Radiohead y le pides que cante esta cosa con un breakdown de 1 minuto hablando de ángeles?
 
 ![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dUM97uKfjcM/0.jpg)](http://www.youtube.com/watch?v=dUM97uKfjcM)
+
 _Personalmente creo que el ojo izquierdo de Yorke se cerró definitivamente en un intento de no seguir leyendo esta canción._
 
 El album se encuentra lleno de joyas musicales como estas, dignas de la colección personal de Cthulhu en R'lyeh. Lo recomiendo enormemente, y se encuentra disponible 
