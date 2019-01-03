@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El Test"
+title:  "[English] Short Story: On Vut's Life Project"
 tags: ficcion
 ---
 
