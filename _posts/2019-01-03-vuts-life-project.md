@@ -4,7 +4,7 @@ title:  "[English] Short Story: On Vut's Life Project"
 tags: ficcion
 ---
 
-**=Big Complex Money Compendium= **
+**The Big Complex Money Compendium**
 
 **Chapter 35: On Vut's life project.** 
 
