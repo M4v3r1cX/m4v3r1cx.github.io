@@ -77,4 +77,5 @@ But that is a story for the "How To lose Money Fast By Being Intolerant" compend
 
 -------------
 Notes
+
 (1): Machinations: A Brief History about the Universe and Everything, Machina, page 65711, Year 2811.
