@@ -1,57 +1,53 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script>
+        const adjectives = ['awesome', 'bored', 'tired', 'smart', 'funny', 'loud', 'punk', 'asshole', 'idiotic', 'embarassing', 'wholesome', 'destroyed', 'lost', 'googled', 'anti-ChatGPT', 'gay', 'LGBT', 'undefined'];  
+        const subtitles = ['Nothing is True, Everything is Permited.', 'Don\'t take me too seriously or you\'ll go mad.', 'howdoyouturnthison','All of your base are belong to us.', 'I am Error', 'undefined', 'OH MY GOD JC, A BOMB!', 'WHEN I WAS... A YOUNG BOY... MY FATHER... TOOK ME INTO THE CITY... TO SEE A MARCHING BAND...', 'Not an original bone on my body.', 'Obviously based on The Monospace Web.', 'I hate Vanilla Javascript, that\'s why I used it on this site. It\'s a monument to my hubris.', 'Allons-y!', 'I miss the pre-smart phone era.', 'HACK THE PLANET', 'Estudiar en el Inacap fue la raja. Me gradué con un juego que enseñaba SQL. Fui el 2do en graduarse con un juego. El primero fue profe de progra mío.', 'God is punishing me for my hubris, and my work is never finished.', 'Pistantrophobia is a word, I swear.', 'Not good at naming stuff.'];
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+        document.addEventListener("DOMContentLoaded", function(event) {
+            const adjective = document.getElementById("adjective");
+            adjective.innerHTML = adjectives[Math.floor(Math.random() * adjectives.length)];
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/tag/reviews">Reviews</a>
-            <a href="{{ site.baseurl }}/tag/hacks">Hacks</a>
-            <a href="{{ site.baseurl }}/tag/recetas">Recetas</a>
-            <a href="{{ site.baseurl }}/tag/musix">Musix</a>
-            <a href="{{ site.baseurl }}/tag/ficcion">Ficcion</a>
-            <a href="{{ site.baseurl }}/tag/noficcion">No Ficcion</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+            const subtitle = document.getElementById("subtitle");
+            subtitle.innerHTML = subtitles[Math.floor(Math.random() * subtitles.length)];
+        });
+    </script>
+    {% include meta.html %}
+</head>
+<body class="mainbody">
+	<div class="container">
+		<div class="header">
+			<div class="header-left">
+				<h1><b>M4v3r1cX</b></h1>
+				<h3 id="subtitle" style="color: #ababab">Whether you like it or not</h3>
+			</div>
+			<div class="header-right">
+				<img src="img/m4v3r1cx.png" alt="M4v3r1cX" height="150" width="150">
+			</div>
+		</div>
+		<div class="menu">
+			<div class="menu-left">
+				S O F T W A R E
+			</div>
+			<div class="menu-right">
+				M U S I C
+			</div>
+		</div>
+		<div class="content">
+			Soy entero seco.<br />
+			<br />
+			<br />
+			Contratenme pls ;__;
+		</div>
+		<div class="footer">
+			Designed by a very <b id="adjective">bored</b> M4v3r1cX
+		</div>
+	</div>
+</body>
 </html>
