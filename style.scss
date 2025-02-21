@@ -104,7 +104,7 @@
     padding-left: 20px !important;
     padding-right: 20px !important;
     padding-bottom: 10px !important;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .footer {
@@ -139,7 +139,7 @@
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-}*/
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -211,7 +211,7 @@ ul ul, ol ul {
 
 em, i {
   font-style: italic;
-}
+}*/
 
 strong, b {
   font-weight: bold;
