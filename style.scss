@@ -127,12 +127,12 @@
 table {
   width: 100%;
   table-layout: fixed;
+  border-collapse: collapse;
+  border: 2px solid white;
 }
 
 th, td {
-text-align: center;
-  border-collapse: collapse;
-  border: 2px solid white;
+  text-align: center;
 }
 
 //
