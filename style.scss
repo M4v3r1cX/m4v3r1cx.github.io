@@ -124,6 +124,13 @@
     text-align: center;
 }
 
+table, th, td {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
 //
 // IMPORTS
 //
