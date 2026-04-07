@@ -56,11 +56,6 @@
     display: block;
     margin: auto;
     width: 50%;
-    padding-top: 10px;
-    padding-top: 10px;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    padding-bottom: 10px !important;
     overflow: hidden;
 }
 
@@ -72,7 +67,9 @@
 }
 
 .menu-border {
-    border: 2px solid white;
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /*.menu-left:hover {
